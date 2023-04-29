@@ -1,0 +1,15 @@
+name: ABMCNyanCat
+main: server.alanbecker.net.Main
+author: MasterGabeMOD
+version: 1.0
+api-version: 1.17
+commands:
+  nyan:
+    description: Enables Nyan in Normal Mode
+    permission: nyan.normal
+  nyanr:
+    description: Enables Nyan in Random Mode
+    permission: nyan.random
+  nyanc:
+    description: Enables Nyan in Custom Mode
+    permission: nyan.custom   
